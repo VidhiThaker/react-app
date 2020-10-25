@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.d5c208e5.chunk.css",
+    "main.js": "/react-app/static/js/main.a8fc99e0.chunk.js",
+    "main.js.map": "/react-app/static/js/main.a8fc99e0.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.056c36fa.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.056c36fa.js.map",
+    "static/js/2.216a343a.chunk.js": "/react-app/static/js/2.216a343a.chunk.js",
+    "static/js/2.216a343a.chunk.js.map": "/react-app/static/js/2.216a343a.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "precache-manifest.1718b45a1d33aa9c149ab8a5b4547c6f.js": "/react-app/precache-manifest.1718b45a1d33aa9c149ab8a5b4547c6f.js",
+    "service-worker.js": "/react-app/service-worker.js",
+    "static/css/main.d5c208e5.chunk.css.map": "/react-app/static/css/main.d5c208e5.chunk.css.map",
+    "static/js/2.216a343a.chunk.js.LICENSE.txt": "/react-app/static/js/2.216a343a.chunk.js.LICENSE.txt",
+    "static/media/chefhero_logo_white.png": "/react-app/static/media/chefhero_logo_white.00f0bdb6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.056c36fa.js",
+    "static/js/2.216a343a.chunk.js",
+    "static/css/main.d5c208e5.chunk.css",
+    "static/js/main.a8fc99e0.chunk.js"
+  ]
+}
